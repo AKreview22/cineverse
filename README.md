@@ -1,16 +1,19 @@
-# cineverse
+<!--- Features -->
 
-A new Flutter project.
+## Features
+
+- View trending movies and TV shows
+- Detailed information about each movie/show including title, release date, overview, and ratings
+  -Skeleton Loading with shimmering effects
+  -Animated pages
+- Dark mode support
+
+<!--- Getting Started -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the instructions below to get the Cineverse app up and running on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
